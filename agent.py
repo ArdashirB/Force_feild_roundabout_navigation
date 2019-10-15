@@ -1,8 +1,8 @@
 import numpy as np
 from math import sqrt
+"This sentence is being used just for github trial"
 
 class Agent(object):
-    #this a change to see change in git
     def __init__(self, csvParameters,compiled_besier_curves):
         """ 
             Takes an input line from the csv file,  
