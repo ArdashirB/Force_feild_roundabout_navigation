@@ -2,7 +2,7 @@ import numpy as np
 from math import sqrt
 
 class Agent(object):
-
+    #this a change to see change in git
     def __init__(self, csvParameters,compiled_besier_curves):
         """ 
             Takes an input line from the csv file,  
